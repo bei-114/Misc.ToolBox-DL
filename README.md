@@ -1,2 +1,23 @@
-# Misc.ToolBox-DL
-Misc.toolbox download station
+# Misc. Toolbox · 下载页
+
+一个离线小工具箱的 **APK 下载页**。这里只放装机的安装包，源码不在这里。
+
+## 怎么下
+
+1. 打开 [Releases](https://github.com/bei-114/Misc.ToolBox-DL/releases) 页面
+2. 点最新那个版本（标着 `Latest` 的）
+3. 往下拉到 **Assets** 那一块，点 `MiscToolboxV10-*.apk` 下载
+
+> 手机浏览器打开时记得**往下滚**，Assets 在版本说明文字下面。
+
+## 怎么装
+
+- 下载完直接点开 APK 安装；系统会提示「未知来源」，允许一次即可
+- 要求 Android 8.0（API 26）及以上
+- 装新版会覆盖旧版，数据不受影响
+- 装回旧版直接下对应版本的 APK 覆盖安装即可
+
+## 说明
+
+- 不登录、不广告、默认不联网、不偷传文件
+- 手机直接下载有时会慢，网络不通畅时可以换电脑下再传过去
